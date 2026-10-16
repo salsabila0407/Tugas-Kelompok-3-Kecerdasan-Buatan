@@ -4,7 +4,7 @@ Proyek ini membangun model machine learning untuk memprediksi risiko kebakaran h
 
 ---
 
-## 📌 Penjelasan Alur Kerja Proyek
+## Penjelasan Alur Kerja Proyek
 
 1. **Pengumpulan Dataset**  
    Mengambil dan mengunggah dataset mentah yang berisi parameter meteorologi dan indikator kebakaran hutan.
